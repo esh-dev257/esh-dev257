@@ -122,17 +122,7 @@ Full-stack learning platform with authentication and payments
 
 🔗 https://github.com/esh-dev257/Ed-Tech-Platform
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=esh-dev257&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esh-dev257&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
