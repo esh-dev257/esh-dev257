@@ -146,7 +146,7 @@ Full-stack learning platform with authentication and payments
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://eshitabhawsar.vercel.app">
+<a href="[https://eshita-tech.xyz/](https://eshita-tech.xyz/)">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
