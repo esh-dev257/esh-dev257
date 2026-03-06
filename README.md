@@ -1,132 +1,171 @@
-<!-- ============================================ -->
-<!-- GitHub Profile README — Eshita Bhawsar       -->
-<!-- ============================================ -->
+<!-- ============================= -->
+<!--      Eshita Bhawsar README   -->
+<!-- ============================= -->
 
 <div align="center">
 
-# Hi there, I'm Eshita Bhawsar !!
+# 👾 Hey, I'm Eshita Bhawsar
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=AB68F7&background=72FF4E00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+DSA+Enthusiast)](https://git.io/typing-svg)
+### Full Stack Developer • Problem Solver • Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=9F79EE&center=true&vCenter=true&width=500&lines=Building+Real+World+Web+Applications;React+%7C+Next.js+%7C+Node.js;DSA+Enthusiast+%7C+300%2B+LeetCode+Problems;Always+Learning+Something+New+🚀" />
 
 </div>
 
-I'm a Computer Science undergrad passionate about building full-stack web applications and solving complex problems. From crafting real-time multiplayer games with Socket.IO to deploying production platforms serving 10k+ users — I love turning ideas into polished, working products. Currently exploring Next.js, AI/ML integrations, and creative frontend experiences; always looking for the next challenge worth solving.
+---
 
-<br clear="right"/>
+# 🚀 About Me
 
-## What I'm Currently Building
+```js
+const eshita = {
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
+  code: ["JavaScript", "TypeScript", "C++"],
 
-<!-- REPLACE: Update this with your current project description and repo link -->
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind"],
+    backend: ["Node.js", "Express"],
+    databases: ["MongoDB", "Firebase", "SQL"],
+    tools: ["Git", "Docker", "Vercel", "Postman"]
+  },
 
-Working on a retro arcade-themed developer portfolio built with Next.js 16, React 19, and TypeScript — featuring pixel art, CRT scanline effects, custom animations, and a gaming HUD-style interface to showcase projects, skills, and experience.
+  interests: [
+    "Building full stack products",
+    "Creative UI experiences",
+    "AI/ML experiments",
+    "Solving algorithmic problems"
+  ],
 
-[![Repo](https://img.shields.io/badge/GitHub-my--portfolio--next-181717?style=for-the-badge&logo=github)](https://github.com/esh-dev257/my-portfolio-next)
+  currentlyBuilding: "Dooduel 🎮"
+}
+```
 
-<br clear="right"/>
+---
 
-## My Toolbox
+# 🎮 Currently Building
 
-### **Languages**
+## Dooduel : Real-time Multiplayer Drawing Game
 
-<p>
-  <img src="https://cdn.simpleicons.org/cplusplus/white" width="40" height="40" alt="C++" title="C++" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/white" width="40" height="40" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/white" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/white" width="40" height="40" alt="SQL" title="SQL" />
-</p>
+A **real-time multiplayer drawing game** where players compete by drawing and guessing words.
 
-### **Frontend**
+### Features
 
-<p>
-  <img src="https://cdn.simpleicons.org/react/white" width="40" height="40" alt="React" title="React" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="40" height="40" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/white" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/white" width="40" height="40" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/white" width="40" height="40" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/white" width="40" height="40" alt="Bootstrap" title="Bootstrap" />
-</p>
+- Real-time communication using **Socket.IO**
+- Multiplayer game rooms
+- Live drawing synchronization
+- Timer-based rounds
+- Score tracking
 
-### **Backend & Databases**
+### Tech Stack
 
-<p>
-  <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/white" width="40" height="40" alt="Express.js" title="Express.js" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/white" width="40" height="40" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase/white" width="40" height="40" alt="Firebase" title="Firebase" />
-</p>
+React • Node.js • Express • Socket.IO • MongoDB
 
-### **Tools & DevOps**
+🔗 Repository  
+https://github.com/esh-dev257/Dooduel
 
-<p>
-  <img src="https://cdn.simpleicons.org/git/white" width="40" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/white" width="40" height="40" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/white" width="40" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/white" width="40" height="40" alt="Vercel" title="Vercel" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postman/white" width="40" height="40" alt="Postman" title="Postman" />
-</p>
+---
 
-### **Learning**
+# 🧠 Problem Solving
 
-<p>
-  <img src="https://cdn.simpleicons.org/django/white" width="40" height="40" alt="Django" title="Django" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/white" width="40" height="40" alt="Python" title="Python" />
-</p>
-
-<br clear="right"/>
-
-## Projects I'm Proud Of
+✔ **300+ LeetCode problems solved**  
+✔ Strong understanding of **Data Structures & Algorithms**
 
 <p align="center">
-  <a href="https://github.com/esh-dev257/Dooduel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esh-dev257&repo=Dooduel&theme=graywhite" alt="Dooduel" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/esh-dev257/Ed-Tech-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=esh-dev257&repo=Ed-Tech-Platform&theme=graywhite" alt="Ed-Tech Platform" />
-  </a>
-</p>
 
-<br clear="right"/>
-
-## LeetCode Stats
-
-<!-- REPLACE: Update 'eshitabhawsar' with your actual LeetCode username -->
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/eshitabhawsar?theme=light&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/eshitabhawsar">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-</p>
-
-<br clear="right"/>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esh-dev257&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esh-dev257&show_icons=true&locale=en&theme=graywhite" alt="GitHub Stats" />
-</p>
-
-<br clear="right"/>
-
-## Get in Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eshita-bhawsar-552a82255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:eshitabhawsar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://eshitabhawsar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio" /></a>
 </p>
 
 ---
 
+# ⚡ Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+
+---
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css)
+
+---
+
+### Backend
+
+![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+---
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+
+---
+
+# 🔥 Featured Projects
+
+### 🎨 Dooduel  
+Real-time multiplayer drawing game using Socket.IO
+
+🔗 https://github.com/esh-dev257/Dooduel
+
+---
+
+### 📚 Ed-Tech Platform  
+Full-stack learning platform with authentication and payments
+
+🔗 https://github.com/esh-dev257/Ed-Tech-Platform
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=esh-dev257&style=flat-square&color=grey" alt="Profile Views" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=esh-dev257&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esh-dev257&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<p align="center"><i>Let's build something awesome together!</i></p>
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/eshita-bhawsar-552a82255/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:eshitabhawsar@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://eshitabhawsar.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+✨ *Let's build something awesome together.*
+
+</div>
