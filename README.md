@@ -8,7 +8,7 @@
 
 ### Full Stack Developer • Problem Solver • Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=9F79EE&center=true&vCenter=true&width=500&lines=Building+Real+World+Web+Applications;React+%7C+Next.js+%7C+Node.js;DSA+Enthusiast+%7C+300%2B+LeetCode+Problems;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=9F79EE&center=true&vCenter=true&width=500&lines=Building+Real+World+Web+Applications;React+%7C+Next.js+%7C+Node.js;%DSA+Enthusiast+%7C+300%2B+LeetCode+Problems;Always+Learning+Something+New+🚀" />
 
 </div>
 
