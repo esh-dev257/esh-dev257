@@ -58,7 +58,7 @@ A **real-time multiplayer drawing game** where players compete by drawing and gu
 
 ### Tech Stack
 
-React • Node.js • Express • Socket.IO • MongoDB
+React • Node.js • Express • Socket.IO • 
 
 🔗 Repository  
 https://github.com/esh-dev257/Dooduel
