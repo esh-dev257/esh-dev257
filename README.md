@@ -37,6 +37,7 @@ const eshita = {
   ],
 
   currentlyBuilding: "Dooduel 🎮"
+  currentlyLearning: "System Design"
 }
 ```
 
